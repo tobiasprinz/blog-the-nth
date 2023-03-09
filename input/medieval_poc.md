@@ -1,0 +1,5 @@
+The one where Tobias looks at people of colour in medieval times
+
+If you look at medieval everyday life, the question "what did people look like?" comes up quite often. When I was young, that was an interesting topic you could debate among friends. But in 2020, this is of course loaded with identity politics. I was tempted to borrow the phrase "loaded to the gills", but that might be appropriating a culture I do not belong to, and whether identifying as fish would be enough is a different question, as we are still debating whehter identifying as a seven year old girl allows me to go to the elemental school bathroom for girls.
+
+You see, something that just should just merit some interest amoung historically interested people tends to escalate very quickly. The development and release of Kingdom Come: Deliverance was one of those occasions. KCD have been accused of not having blonde girls. 
