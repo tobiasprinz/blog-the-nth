@@ -50,6 +50,8 @@ class Page:
 	def cut_off_meta(cls, content):
 		return re.sub(META_APPENDIX_PATTERN, '', content)
 
+	def get_title(self):
+		return page.raw_content.splitlines()[0]
 
 	def to_html(self):
 		return markdown.markdown(self.content)
@@ -58,67 +60,24 @@ class Page:
 		return 'Page(filename="{}")'.format(filename)
 
 
-class Site():
-	def __init__(self, pages=None, template=None):
-		self.pages = pages
-		if not pages:
-			self.pages = list()
 
-		self.template = template
-		self.handlers = [CategoryHandler(site=self)]
+def insert_page_into_template(page=None, template='default.html'):
+	with open('extensions/templates/' + template, "r") as text_file:
+	     template =  Template(text_file.read())
+	return template.substitute(content=page.to_html(), title=page.get_title(), navigation=None)
 
-	def add_page(self, page):
-		self.pages.append(page)
 
-	def get_page(self, filename):
-		filtered = filter(lambda p: p.filename == filename, self.pages)
-		if not filtered:
-			return None
-		return next(filtered)
-
-	def prep(self):
-		for page in self.pages:
-			for handler in self.handlers:
-				handler.analyse(page)
-
-		for handler in self.handlers:
-			handler.update(self.template)
-
-	def get_rendered_page(self, filename):
-		p = self.get_page(filename)
-		rendered = self.template.substitute(
-			content=p.to_html(),
-			title=p.filename,
-		)
-		return rendered
-
-	def get_all_pages(self):
-		return {p.filename: p for p in self.pages}
-
-	def get_all_rendered_pages(self):
-		return {p.filename: p.to_html() for p in self.pages}
-
-	def write(self):
-		pages = self.get_all_rendered_pages()
-		for filename, html in pages:
-			output_filename = filename.replace('input', 'output').replace('.md', '.html')  # TODO: regex to avoid replacing input/appreciate_my_input.md
-			with open("output_filename.html", "w", encoding="utf-8", errors="xmlcharrefreplace") as output_file:
-				output_file.write(html)
-			print('Writing {}'.format(output_filename))
-
-	def __str__(self):
-		return 'Site(pages=[{}])'.format(', '.join(self.pages))
+def write_page(page):
+	output_filename = page.filename.replace('input', 'output').replace('.md', '.html')  # TODO: regex to avoid replacing input/appreciate_my_input.md
+	page_content = insert_page_into_template(page=page, template='default.html')
+	with open(output_filename, "w", encoding="utf-8", errors="xmlcharrefreplace") as output_file:
+		output_file.write(page_content)
+	print('Writing {}'.format(output_filename))
 
 
 #------------------- TODO: MAKE THIS A MAIN -------------------#
 input_files = glob.glob('input/*.md')
 
-with open('extensions/templates/default.html') as tmpl:
-	site = Site(template=Template(tmpl.read()))
-
 for filename in input_files:
 	page = Page.from_file(filename)
-	site.add_page(page)
-
-site.prep()
-site.write()
+	write_page(page)
