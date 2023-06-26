@@ -1,7 +1,7 @@
 # 2023-26 (26.06.2023 - )
 * Zweieinhalb Tage München... die Hölle für meine Familie. Ich mache das nicht wirklich gerne.
 * C. und A. haben hier mal drauf geguckt. Und nach dem ersten Kommentar von A. ging mir auf: Ich mag neuen Content gerne oben. Also alles umgebaut.
-
+* Nachdem ich in Demonship reingeschaut habe (einen tag später konnte man das Set dann doch digital kaufen), bin ich über [Brawl Arcane 28](https://brettfp.itch.io/brawl-arcane-28) gestolpert. Fantasy-Duell auf einem Schachbrett. [Anna von Gardens of Hecate konnte es natürlich nicht lassen, was dazu zu basteln](https://gardensofhecate.com/blog/miniature/brawl-arcane-28).
 
 # 2023-25 (19.06.2023 - 25.06.2023)
 * Es ist schwer über Miniaturenmalen, Licht- und Schatteneffekte zu sprechen, wenn man die Begriffe nicht kennt. Jetzt kenne ich [Körperfarbe](https://de.wikipedia.org/wiki/K%C3%B6rperfarbe) und Lichtfarbe sowie [Lokalfarbe](https://de.wikipedia.org/wiki/Lokalfarbe) und [Erscheinungsfarbe](https://de.wikipedia.org/wiki/Erscheinungsfarbe). Und wie spannend es ist, dass das Hirn bestimmte Farbtöne in Licht und Schatten als zugehörig zu einem Grundton erkennt - die [Farbkonstanz](https://de.wikipedia.org/wiki/Farbwahrnehmung#Farbkonstanz). Warum weiß ich das? Weil [Klaus Tschira](https://de.wikipedia.org/wiki/Klaus_Tschira) den [Landsitz Energie](https://de.wikipedia.org/wiki/Wilhelm-Ostwald-Park)  gekauft hat. Und das weiß ich, weil ich gerade meinen Frieden mit SAP mache.
