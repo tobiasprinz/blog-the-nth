@@ -1,5 +1,14 @@
 _Das hier ist mein Blog-Prototyp. Ich schaue gerade, welches Format ich gerne hätte und nutze so lange den einfachen Workflow, eine Markdown-Datei auf github zu pushen. Parallel bastel' ich eine Software, die aber eher nach Wiki als nach Blog aussieht._
 
+# Time is... sneezing? (02.10.2023 - 08.10.2023)
+Wie ein moderner Vater es eben so macht, habe ich mir die Turbo-Grippe in fünf Tagen gegeben und gesunde gerade. S. wird zum Ausgleich zum zweiten mal krank oder zum dritten mal, wenn man Halsschmerzen zählt. Naja, ist ja Bald Weihnachten, letztes Jahr waren wir ab November krank... 
+* Huch, ist schon Freitag?
+* Ein Hobby bleibt _Fernsehen gucken planen_. Also nicht Fernsehen gucken, dafür ist keine Zeit. Aber hin und wieder mal schauen, was so sehenswert wäre. Jetzt weiß ich, dass Rocknoe O'Bannon, seines Zeichens Serien-Retter und gelegentlicher Selbst-auch-mal-Serien-Macher (Farscape beispielsweise) eigentlich immer eine Serie namens "Cult" machen wollte. Dafür hat er sogar Defiance sein lassen. [Eine Staffel, 13 Folgen, hat es gegeben](https://en.wikipedia.org/wiki/Cult_(TV_series)). Mal gucken, ob man die findet. Ah, und von seinem Irgendwie-dann-doch-nicht-abandoned-by-the-network [Alien Nation](https://en.wikipedia.org/wiki/Alien_Nation) soll ein zehnteiliges Remake kommen. Finde ich gut. Zehn geplante Teile sind sicherlich besser als ein Film, gefolgt von einer gecancelten Serie mit einer Staffel, gefolgt von 5 made-for-TV Filmen.
+* Wenn man nix zu tun hat, kann man ja mal... Wasser-Ventile drehen. Köln Kalk ist nämlich überall. Als Sauerländer kannte ich dieses "Verkalken" gar nicht, jetzt muss ich mich tatsächlich damit beschäftigten, dass unsere Haushaltsgeräte viel schneller kaputt gehen.
+
+# Time is fleeting (25.09.2023 - 01.10.2023)
+Die Kinder gewöhnen sich an Kidnergarten und Tagesmutter, die werte Gattin wird gesünder, Hochzeit ist überstanden, steht nur noch ein Geburtstag aus... so langsam kehrt Ruhe ein. Ich hab an einem Abend eine kleine static-page-only Blog-Software geschrieben, die gefällt mir sehr gut. Jetzt nur noch 6 E-Mails schreiben, Einkäufe erledigen, Arzttermine machen und schon bin ich gar nicht mehr so weit hinten dran mit dem ganzen Leben. Oh, wie, ist schon Donnerstag?
+
 # Is is next week yet? (18.09.2023 - 24.09.2023)
 ## Schwertkampf von letzens
 Letzte Woche war ein Seminar mit Petr Turya von der [Guildam Gladiatorum Sancti Michaelis](https://www.facebook.com/GuildStMichael/). Das ist zu allererst mal eine Lektion über einfache lateinische Genitive und dann wieder ein Denkanstoß dazu, wo ich da gelandet bin. Ich, als Freund von Harnischfechtern bei den Bloßfechtern. Ich als Freund des 15ten Jahrhunderts bei den Pumphosern. Ich als Combatives-Combatant-Moped bei den Kampfkünstlern. Und Petr ist so ein Koloss wie Volker vom Bujinkan Senshi Dojo, jemand, der eh' jede noch so hahnebüchene Kampftechnik zum Funktionieren bringen könnte. Aber ich bleibe dabei und gespannt, denn: Nette Menschen. 
@@ -15,6 +24,10 @@ Jetzt ist nicht nur L. im Kindergarten angekommen, nein, T. hat bei der Tagesmut
 
 ## TIL: Pomperipossa in Monismania.
 Die einflussreichste, wichtigste Geschichte von der seligen Astrid Lindgren heißt _Pomperipossa in Monismania_ ([hier eine englische Übersetzung](https://lenbilen.com/2012/01/24/pomperipossa-in-monismania/)) und erzählt von einer fiktionalen Buchautorin in einem absolut fiktionalen Land, die erfährt, dass sie 102% Steuern auf ihr Einkommen zahlen muss. Die Geschichte, wie Astrid Lindgren das erste Mal in 40 Jahren sauer auf die Sozialdemokraten war (sie aber trotzdem weiter gewählt hat) und wie, zum ersten Mal seit 40 Jahren, die Sozialdemokraten die Wahl verloren haben - vermutlich stark beeinflusst durch diese Geschichte und Ingmar Bergmans ebenso berühmten Abschiedsbrief an sein Heimatland, das ihn damals wegen Steuerhinterziehung anklagte - eine Geschichte, die noch lustiger wird (also retrospektiv, für Nicht-Betroffene), weil der damalige Finanzminister wohl den gleichen "Trick" angewendet hatte, was ihm eine Erwähnung in Lindgrens Erzählung und [eine wunderbar scharfzüngige Antwort in einem Interview](https://de.wikipedia.org/wiki/Pomperipossa_in_Monismanien#Entstehungsgeschichte_und_Auswirkungen) eingebracht hat.
+
+## Diverses
+* Die Suche nach Federstahl geht weiter. Jetzt habe ich mich mit 51CrV4 abgefunden, aber auch da nix einfach so. Damit ich das nicht vergesse, folgende Qualitäten würde ich als Flachstahl von 5mm-8mm Stärke und 30mm - 200mm Breite sofort nehmen: 1.8159 (50CrV4 bzw. 51CrV4), 1.5025 (51Si7), 1.5026 (55Si7 oder 56Si7), 1.5028 (65Si7), 1.7108 (61SiCr7), 1.7103 (67SiCr5, auch als Marke Böhler F200 oder Thyssen Krupp THYROFLEX-7103)
+* [Der Typ, der Guardians of the Galaxy geschrieben hat](https://en.wikipedia.org/wiki/James_Gunn), hat vorher Tromeo and Juliet gemacht - einer von drei Troma-Filmen, die mir spontan einfallen würden neben Toxic Avenger und Class of Nukem High. Ah, und er ist der Bruder von [Kirk aus Gilmore Girls](https://en.wikipedia.org/wiki/Sean_Gunn).
 
 
 # Hurry up and wait (11.09.2023 - 17.09.2023)
