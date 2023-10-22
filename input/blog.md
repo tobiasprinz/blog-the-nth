@@ -1,5 +1,15 @@
 _Das hier ist mein Blog-Prototyp. Ich schaue gerade, welches Format ich gerne hätte und nutze so lange den einfachen Workflow, eine Markdown-Datei auf github zu pushen. Parallel bastel' ich eine Software, die aber eher nach Wiki als nach Blog aussieht._
 
+# Time is... krank sein (09.10.2023 - 22.10.2023)
+S. ist bei Erkältung #4, ich bei #2 und hab zusätzlich zu meinem seit Jahren kaputten Kinder-Trage-Arm noch ein unerklärlich schmerzendes Knie gewonnen (eventuell die hippen, funktionalen Animal-Pattern Movements, auf die unser Patric so steht). T. schläft nur in Begleitung mit Körperkontakt und hustet sich gerne wach, so dass ich jeden zweiten Tag ab 1930 im Bett liege. Vermutlich hilft der viele Schlaf, die Erkältung klein zu halten. Die anderen Tage bin ich so ab 2200 im Bett (nachdem ich erschöpft bis etwa 2045 bei L. gepennt habe), damit S. nicht die ganze Zeit von T. wachgehalten wird, denn Schlafen neben T. habe ich trainiert. Freizeit nach Feierabend: Der Mittwoch zum Schwertkampf. Spannender ist, das ich etwa 8 Minusstunden die Woche bei der Arbeit aufbaue ohne Aussicht auf viel Abbau (gerade schiebe ich die Sonntag-Nacht-Schicht, um wenigstens 4 Stunden loszuwerden, weil T. tief genug pennt und S. sie notfalls beruhigen kann).
+
+Ab dem 30. habe ich zwei Wochen "Urlaub" in dem Sinne, dass ich Urlaubszeit nehmen muss, weil unsere Tagesmutter Urlaub macht (36 Urlaubstage im Jahr ("ist doch normal, oder?"), Brückentage und Weihnachtszeit sowieso ("die rechnet man doch nicht, oder?") - und unsere Tagesmutter ist grundsätzlich toll und im Vergleich zu allen anderen, von denen wir so hören ein Engel). Eventuell habe ich da Zeit (natürlich mit T. auf dem Arm) zum Arzt zu gehen und mich krankschreiben zu lassen - wegen, Arm, Knie, verschleppter Erkältung, Depressionen, wer weiß. 
+
+Hoffnung stiftet der Ausbau der Werkstatt, wo ich pro Woche etwa eine Stunde schaffe, falls meine Eltern zu Besuch kommen und uns einen Tag lang mit Kinderbetreuung unterstützen. Kein gutes Verhältnis, jedes Mal ausnehmend frustrierend zu Beginn, aber mittlerweile freue ich mich auch über kleine Fortschritte. Dieses Mal habe ich vier Tischbeine eingekürzt, zwei Winkel angeschraubt und Zeug in die Blechhütte geräumt, um demnächst ein altes, wackeliges Regal aufhängen zu können. Das notwendige neue Dach, damit es nicht reinregnet, kommt frühestens Mitte nächsten Jahres.
+
+Und ich gönne mir tagsüber immer 15min nach dem Mittagessen, um eine Schwertscheide zu bauen. Macht Laune. Leider fehlt mir der Platz in der Werkstatt, um den Bandschleifer anzuwerfen und mein Ledervorrat liegt noch in Valbert und meine Eltern kommen nicht dran, weil sie ein Wespennest auf dem Dachboden haben.
+
+
 # Time is... sneezing? (02.10.2023 - 08.10.2023)
 Wie ein moderner Vater es eben so macht, habe ich mir die Turbo-Grippe in fünf Tagen gegeben und gesunde gerade. S. wird zum Ausgleich zum zweiten mal krank oder zum dritten mal, wenn man Halsschmerzen zählt. Naja, ist ja bald Weihnachten, so singen die Lebkuchen im Aldi von den Regalen, letztes Jahr waren wir ab November krank, vielleicht geht das noch früher... 
 * Huch, ist schon Freitag?
