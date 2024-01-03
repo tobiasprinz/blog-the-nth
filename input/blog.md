@@ -1,5 +1,10 @@
 _Das hier ist mein Blog-Prototyp. Ich schaue gerade, welches Format ich gerne hätte und nutze so lange den einfachen Workflow, eine Markdown-Datei auf github zu pushen. Parallel bastel' ich eine Software, die aber eher nach Wiki als nach Blog aussieht._
 
+# 31.12.2023, Samstag
+Kind #2 schläft, ich liege daneben und benutze meinen neuen Laptop
+* Krass, wie schlecht man wählen kann, wenn man sich um Hardware eigentlich nicht mehr kümmert... jetzt fehlen mir an meinem Acer Inspire 3 so Komfortdinge, die ich als gegeben gesetzt habe wie Fingerabdruck-Scanner und Tastaturbeleuchtung. Ah, und richtiges Recherchieren habe ich auch verlernt - das Vorgängermodell hat einen Slot zur RAM-Erweiterung, das hier vermutlich nicht.
+* Familie besuchen heißt immer, einen Vormittag Trapdoor- und Phishing-Zeugs deinstallieren und gucken, wer meinen 78-Jährigen Papa jetzt wieder im Internet abgezockt hat. Diesmal: Die Kieler Group, die sich unter anderem als Garten-Zubehör-Versand tarnt. Deren Masche: Etwas verkaufen, die Paypal-Einzugsermächtigung als Paypal-Zahlung tarnen, dann den Einkauf eigenmächtig um einen überteuerten Gegenstand zu erweitern und das via Einzugsermächtigung automatisch mit zu bezahlen. Dann erkennen die den Fehler an und bieten an, den Gegenstand für 50% des (fiktiven) Werts zu behalten. Sollte ich mal eine Karriere als Stand-over man beginnen, sind die auf meiner Liste.
+
 # 16.12.2023, Samstag
 * Und wieder was vom Blender-Guru: [Solstice-5](https://www.youtube.com/watch?v=cntb3wcZdTw). Sieht geil aus, fühlt sich für 5min ziemlich spannend und klever an. Danach wirkt der potentielle Plot auf mich doch arg dünn. Aber hüsch isses.
 * Barbie war, wie zuletzt geschrieben, blöd. Aber [Leo](https://www.imdb.com/title/tt5755238/) ist gut. Fühlt sich ein wenig an, als hätte jemand das Disney-Konzept zu stark kopiert und etwas formulaisch Lieder eingebaut; und ich bin mir nicht sicher, ob der Appeal bei Kindern auch so groß ist, wie Disney das hin bekommt, aber der Erwachsenen-Part ist wunderschön. Überraschend wenig Material, was altern könnte. Adam Sandler, Happy Madison Productions, ich bin positiv überrascht.
