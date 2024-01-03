@@ -1,5 +1,8 @@
 _Das hier ist mein Blog-Prototyp. Ich schaue gerade, welches Format ich gerne hätte und nutze so lange den einfachen Workflow, eine Markdown-Datei auf github zu pushen. Parallel bastel' ich eine Software, die aber eher nach Wiki als nach Blog aussieht._
 
+# 03.01.2024
+* Ein Interview mit [Jonathan Franzen zum Thema Klimawandel](https://taz.de/Jonathan-Franzen-im-FUTURZWEI-Gespraech/!5980790/) in der TAZ, das [Dale Jamisons](https://de.wikipedia.org/wiki/Dale_Jamieson)s Buch "Reason in a dark time" auf meine Leseliste gepushed hat. Franzens eigenen Essay [What if we stopped pretending](https://www.newyorker.com/culture/cultural-comment/what-if-we-stopped-pretending) kannte ich, konnte ich aber nicht zuordnen. Hat jetzt ein Gesicht. Ich hab' halt ein Herz für frustrierte Klimaschützer, die abgestoßen sind von der unnötigen Lügnerei der eigenen Seite, und die immernoch praktische, lokale Ansätze vertreten.
+
 # 31.12.2023, Samstag
 Kind #2 schläft, ich liege daneben und benutze meinen neuen Laptop
 * Krass, wie schlecht man wählen kann, wenn man sich um Hardware eigentlich nicht mehr kümmert... jetzt fehlen mir an meinem Acer Inspire 3 so Komfortdinge, die ich als gegeben gesetzt habe wie Fingerabdruck-Scanner und Tastaturbeleuchtung. Ah, und richtiges Recherchieren habe ich auch verlernt - das Vorgängermodell hat einen Slot zur RAM-Erweiterung, das hier vermutlich nicht.
