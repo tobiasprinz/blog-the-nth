@@ -26,7 +26,9 @@ _Das hier ist mein Blog-Prototyp. Ich schaue gerade, welches Format ich gerne h�
 * Vorletzter Urlaubstag und die Kinder sind schon in Betreuung, oh, Freizeit! Naja, ich hab da eine Liste mit neun Punkten, was noch alles repariert oder organisiert werden muss. Wie zum Beispiel, ein verkalktes Eckventil zu tauschen oder ein Angebot für eine Entkalker-Installation einzuholen.
 
 # 03.01.2024
-* Ein Interview mit [Jonathan Franzen zum Thema Klimawandel](https://taz.de/Jonathan-Franzen-im-FUTURZWEI-Gespraech/!5980790/) in der TAZ, das [Dale Jamieson](https://de.wikipedia.org/wiki/Dale_Jamieson)s Buch "Reason in a dark time" auf meine Leseliste gepushed hat. Franzens eigenen Essay [What if we stopped pretending](https://www.newyorker.com/culture/cultural-comment/what-if-we-stopped-pretending) kannte ich, konnte ich aber nicht zuordnen. Hat jetzt ein Gesicht. Ich hab' halt ein Herz für frustrierte Klimaschützer, die abgestoßen sind von der unnötigen Lügnerei der eigenen Seite, und die immer noch praktische, lokale Ansätze vertreten.
+* Ein Interview mit [Jonathan Franzen zum Thema Klimawandel](https://taz.de/Jonathan-Franzen-im-FUTURZWEI-Gespraech/!5980790/) in der TAZ, das [Dale Jamieson](https://de.wikipedia.org/wiki/Dale_Jamieson)s Buch "Reason in a dark time" auf meine Leseliste gepushed hat. Franzens eigenen Essay [What if we stopped pretending](https://www.newyorker.com/culture/cultural-comment/what-if-we-stopped-pretending) kannte ich, konnte ich aber nicht zuordnen (zum Glück funktioniert User-Tracking...). Hat jetzt ein Gesicht. Ich hab' halt ein Herz für frustrierte Klimaschützer, die abgestoßen sind von der unnötigen Lügnerei der eigenen Seite, und die immer noch praktische, lokale Ansätze vertreten.
+   * Interviewpartner ist Peter Unfried. Großartiger Name.
+* [Patrick Stewart - Making it so: A Memoir](https://www.amazon.de/Making-So-Memoir-Patrick-Stewart/dp/139851294X). Schöne Dinge tauchen gerne einfach so mal auf Amazon auf (danke, Algorithmus!). Die Audio-Version, gelesen vom ihm selbst, ist natürlich verlockend.
 
 # 31.12.2023, Samstag
 Kind #2 schläft, ich liege daneben und benutze meinen neuen Laptop
