@@ -1,0 +1,1 @@
+git add input\blog.md && git commit -m "Blog update" && git push
