@@ -1,5 +1,9 @@
 _Das hier ist mein Blog-Prototyp. Ich schaue gerade, welches Format ich gerne hätte und nutze so lange den einfachen Workflow, eine Markdown-Datei auf github zu pushen. Parallel bastel' ich eine Software, die aber eher nach Wiki als nach Blog aussieht._
 
+# 13.03.2024
+* Ich hatte mal eine kurze Unterhaltung zu Persönlichkeitstest. Kurz deswegen, weil es keine Diskussion war: Ich sagte in etwa "wenn es nicht wissenschaftlich belegt ist, hilft es nicht, kostet unnötig Geld und Zeit und ist praktisch kontraproduktiv". Mein Gegenüber sagte etwas in der Form von "ich habe da keine fachliche Ahnung von, ich will mich daher nicht festlegen und ich will aber". Also keine Diskussion, denn die finden bei etwa gleichem Wissenstand statt. (Clearer Thinking)[https://www.clearerthinking.org/post/how-accurate-are-popular-personality-tests-at-predicting-life-outcomes] zeigt jetzt noch mal, warum es heißt "go big 5 or go home", demonstrieren das Problem von weniger Faktoren anhand von Jungian/MBTI (was niemanden überraschen sollte, der die Mathematik hinter Big Five versteht) und sind überrascht, wie gut Enneagram funktioniert (wiederum: Duh, 5 Faktoren sind das Minimum, klar schägt Enneagram mit 9 so Jungian/MBTI mit 4).
+   * Sie erwähnen auch nebendrein eine mögliche Erklärng, warum die Teilnehmer trotzdem Jungian/MBTI besser finden: Weil's netter klingt.
+   * Um das Thema ein für alle Mal abzuhaken, gibt es von Clearer Thinking jetzt den Combo-Test, der die Ergebnnisse nach allen drei Systemen anzeigt. Bitteschön, 500-5000 bis für eine Consultant-Nase und 5-25 Tagesgehälter für die Kursteilnehmer gespart: https://programs.clearerthinking.org/personality.html
 
 # 08.03.2024
 Da hatte ich mit "ein Gedanke zum tag" eine nette Idee, bin aber nicht voran gekommen. Nur mehr halbfertige Artikel, aber so liegen sie nicht in meiner Dropbox, sondern blockieren das Blog. Also weg damit.
