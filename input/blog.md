@@ -3,6 +3,7 @@ _Das hier ist mein Blog-Prototyp. Ich schaue gerade, welches Format ich gerne h�
 # 17.03.2024
 * Last Epoch ist definitiv das Ding, wenn es um Action-RPGs auf dem PC geht. Ich hab's gefunden, weil ich A. gecyberstalked (und die fehlerhafte Information von Steam, das "seit 143 Tagen nicht online" sagt, ignoriert) habe. Ein Diablo-Clone, der alles richtig macht: Grafik ausreichend dank Unity-Engine; Plot zwar so hahneb체chen, dass Diablo durchdacht wirkt, aber zahlt auf eine coole Weltkarte mit 4 Zeitebene ein; und ein Skill- und Levelsystem, das durchdacht und elegant ist und damit ein Gegenentwurf zu PoE, was mit seiner Komplexit채t versteckt, dass es schlecht ist und Diablo III, das seine spannende, gute Komplexit채t nachtr채glich durch Itemsets reinholen muss.
    * Ja, ich kann nicht 체ber D4 reden, aber wie schon mal geschrieben: "Einfach abwarten"
+   * Gestern Abend zum ersten Mal seit Jahren online gespielt - mit A. 9 Level ohne Anstrengung, aber meine G체te, ich kann nicht mehr Denken, Reden und Spielen gleichzeitig.
 * Wir sind krank. Also: S. ist krank, die Kinder sind krank, ich bin noch auf den Beinen, schlafe aber noch weniger als sonst. Das bringt uns dazu, mal das Konzept "jeder kriegt eine Stunde Pause am Tag" auszuprobieren. 
 
 # 14.03.2024
