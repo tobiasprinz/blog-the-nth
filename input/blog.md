@@ -1,5 +1,14 @@
 _Das hier ist mein Blog-Prototyp. Ich schaue gerade, welches Format ich gerne hätte und nutze so lange den einfachen Workflow, eine Markdown-Datei auf github zu pushen. Parallel bastel' ich eine Software, die aber eher nach Wiki als nach Blog aussieht._
 
+# 17.03.2024
+* Last Epoch ist definitiv das Ding, wenn es um Action-RPGs auf dem PC geht. Ich hab's gefunden, weil ich A. gecyberstalked (und die fehlerhafte Information von Steam, das "seit 143 Tagen nicht online" sagt, ignoriert) habe. Ein Diablo-Clone, der alles richtig macht: Grafik ausreichend dank Unity-Engine; Plot zwar so hahnebüchen, dass Diablo durchdacht wirkt, aber zahlt auf eine coole Weltkarte mit 4 Zeitebene ein; und ein Skill- und Levelsystem, das durchdacht und elegant ist und damit ein Gegenentwurf zu PoE, was mit seiner Komplexität versteckt, dass es schlecht ist und Diablo III, das seine spannende, gute Komplexität nachträglich durch Itemsets reinholen muss.
+   * Ja, ich kann nicht über D4 reden, aber wie schon mal geschrieben: "Einfach abwarten"
+* Wir sind krank. Also: S. ist krank, die Kinder sind krank, ich bin noch auf den Beinen, schlafe aber noch weniger als sonst. Das bringt uns dazu, mal das Konzept "jeder kriegt eine Stunde Pause am Tag" auszuprobieren. 
+
+# 14.03.2024
+* Immer, wenn ich Gemecker über Diablo 4 lese, denke ich mir: Diablo 3 war auch zu Beginn schlecht. Natürlich frage ich mich, wieso die nicht einfach die guten Lektionen aus dem Ende von Diablo 3 übernehmen können. Aber ich frage mich auch bei jeder Generation von Glock, wieso die immer wieder neue Fehler machen. Ist wohl einfach so. _Second projects_ in Software gehen etwas anders, aber auch nicht besser. Bei Owlcat weiß man wenigstens, dass da Abzocke im Pricing drin ist.
+   * "Einfach abwarten" ist für alles außer Bitcoins eine gute Idee.
+
 # 13.03.2024
 * Ich hatte mal eine kurze Unterhaltung zu Persönlichkeitstests. Kurz deswegen, weil es keine Diskussion war: Ich sagte in etwa "wenn es nicht wissenschaftlich belegt ist, hilft es nicht, kostet unnötig Geld und Zeit und ist praktisch kontraproduktiv". Mein Gegenüber sagte etwas in der Form von "ich habe da keine fachliche Ahnung von, ich will mich daher nicht festlegen und ich will aber". Also keine Diskussion, denn die finden bei etwa gleichem Wissenstand statt. (Clearer Thinking)[https://www.clearerthinking.org/post/how-accurate-are-popular-personality-tests-at-predicting-life-outcomes] zeigt jetzt noch mal, warum es heißt "go big 5 or go home", demonstrieren das Problem von weniger Faktoren anhand von Jungian/MBTI (was niemanden überraschen sollte, der die Mathematik hinter Big Five versteht) und sind überrascht, wie gut Enneagram funktioniert (wiederum: Duh, 5 Faktoren sind das Minimum, klar schägt Enneagram mit 9 so Jungian/MBTI mit 4).
    * Sie erwähnen auch nebendrein eine mögliche Erklärng, warum die Teilnehmer trotzdem Jungian/MBTI besser finden: Weil's netter klingt.
