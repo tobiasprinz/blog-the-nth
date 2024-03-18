@@ -1,5 +1,13 @@
 _Das hier ist mein Blog-Prototyp. Ich schaue gerade, welches Format ich gerne hätte und nutze so lange den einfachen Workflow, eine Markdown-Datei auf github zu pushen. Parallel bastel' ich eine Software, die aber eher nach Wiki als nach Blog aussieht._
 
+# 18.03.2024
+* Schon wieder Scott Alexander: [Verses On Five People Being Killed By A Falling Package Of Foreign Aid](https://www.astralcodexten.com/p/verses-on-five-people-being-killed) - überraschend pietätsvoll formulierte Beschreibung von den Gedanken hinter _effective altruism_.
+* Zack Weinersmith ist auch wieder philosophisch unterwegs: [Why do bad things happen to bad people?](https://www.smbc-comics.com/comic/good-5)
+* Beide Beträge sind imho gute Beispiele dafür, dass man Philosophie besser nicht den professionellen Philosophen überlässt.
+* Bei uns um die Ecke gibt es einen Gebrauchtwagenhändler für Nutzfahrzeuge. Dort sammeln sich mittlerweile auch ein paar Food Trucks. Das erinnert mich daran, dass in meiner Erinnerung A. von der A. für A. mal erklärt hat, dass er solche Ausgründungen auch nicht mehr unterstützt. Hier isses nett illustriert.
+* Dinge, die ich unbedingt demnächst mit Bildgeneratoren ausprobieren möchte, Teil 1: [Die Saporoger Kosaken schreiben dem türkischen Sultan einen Brief](https://de.wikipedia.org/wiki/Die_Saporoger_Kosaken_schreiben_dem_t%C3%BCrkischen_Sultan_einen_Brief), nur mit Spartanern statt Kosaken. [Der Antwortbrief wäre nur etwas kürzer](https://de.wikipedia.org/wiki/Lakonisch#Beispiele).
+* Ich habe große Hoffnugnen auf [Songs like Ingvar](https://www.similarsongsfinder.com/73YvJrKkePCHt2Cj91Okyg?songslike=Ingvar%20-%20Vinland%20Edition&by=Hulkoff) über den similarsongsfinder. [Ingvar](https://www.youtube.com/watch?v=sIHbZTIoHOM) ist für mich genau die richtige Menge Geschichte kombiniert mit gutem Gesang. Ich sehe schon ein Gravedigger-Cover, das eine weitere Inspiration für Spielen mit einem Bildgenerator bringt.
+
 # 17.03.2024
 * Last Epoch ist definitiv das Ding, wenn es um Action-RPGs auf dem PC geht. Ich hab's gefunden, weil ich A. gecyberstalked (und die fehlerhafte Information von Steam, das "seit 143 Tagen nicht online" sagt, ignoriert) habe. Ein Diablo-Clone, der alles richtig macht: Grafik ausreichend dank Unity-Engine; Plot zwar so hahnebüchen, dass Diablo durchdacht wirkt, aber zahlt auf eine coole Weltkarte mit 4 Zeitebene ein; und ein Skill- und Levelsystem, das durchdacht und elegant ist und damit ein Gegenentwurf zu PoE, was mit seiner Komplexität versteckt, dass es schlecht ist und Diablo III, das seine spannende, gute Komplexität nachträglich durch Itemsets reinholen muss.
    * Ja, ich kann nicht über D4 reden, aber wie schon mal geschrieben: "Einfach abwarten"
