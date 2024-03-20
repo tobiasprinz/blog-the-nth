@@ -1,5 +1,10 @@
 _Das hier ist mein Blog-Prototyp. Ich schaue gerade, welches Format ich gerne hätte und nutze so lange den einfachen Workflow, eine Markdown-Datei auf github zu pushen. Parallel bastel' ich eine Software, die aber eher nach Wiki als nach Blog aussieht._
 
+# 20.03.2024
+* Ja, **Last Epoch**. Definitiv das Ding. Ich mag sogar das Endgame-Design und rausche da mit meinem Bowmaster durch wie ich es früher bei D3 mit meinem Demonhunter gemacht habe.
+   * Ja, der Demonhunter war am Ende mein Lieblingscharacter. Und in WoW war es der Hunter. Komisch für mich als überzeugten Plattenträger und Schwert-Wedler.
+   * Meine Rezension ist aktuell bei Steam, eine Kopie hier gibt es, sobald ich mich endlich durchringe, eine Build-Pipeline zu basteln.
+
 # 18.03.2024
 * Schon wieder Scott Alexander: [Verses On Five People Being Killed By A Falling Package Of Foreign Aid](https://www.astralcodexten.com/p/verses-on-five-people-being-killed) - überraschend pietätsvoll formulierte Beschreibung von den Gedanken hinter _effective altruism_.
 * Zack Weinersmith ist auch wieder philosophisch unterwegs: [Why do bad things happen to bad people?](https://www.smbc-comics.com/comic/good-5)
@@ -9,7 +14,7 @@ _Das hier ist mein Blog-Prototyp. Ich schaue gerade, welches Format ich gerne h�
 * Ich habe große Hoffnugnen auf [Songs like Ingvar](https://www.similarsongsfinder.com/73YvJrKkePCHt2Cj91Okyg?songslike=Ingvar%20-%20Vinland%20Edition&by=Hulkoff) über den similarsongsfinder. [Ingvar](https://www.youtube.com/watch?v=sIHbZTIoHOM) ist für mich genau die richtige Menge Geschichte kombiniert mit gutem Gesang. Ich sehe schon ein Gravedigger-Cover, das eine weitere Inspiration für Spielen mit einem Bildgenerator bringt.
 
 # 17.03.2024
-* Last Epoch ist definitiv das Ding, wenn es um Action-RPGs auf dem PC geht. Ich hab's gefunden, weil ich A. gecyberstalked (und die fehlerhafte Information von Steam, das "seit 143 Tagen nicht online" sagt, ignoriert) habe. Ein Diablo-Clone, der alles richtig macht: Grafik ausreichend dank Unity-Engine; Plot zwar so hahnebüchen, dass Diablo durchdacht wirkt, aber zahlt auf eine coole Weltkarte mit 4 Zeitebene ein; und ein Skill- und Levelsystem, das durchdacht und elegant ist und damit ein Gegenentwurf zu PoE, was mit seiner Komplexität versteckt, dass es schlecht ist und Diablo III, das seine spannende, gute Komplexität nachträglich durch Itemsets reinholen muss.
+* **Last Epoch** ist definitiv das Ding, wenn es um Action-RPGs auf dem PC geht. Ich hab's gefunden, weil ich A. gecyberstalked (und die fehlerhafte Information von Steam, das "seit 143 Tagen nicht online" sagt, ignoriert) habe. Ein Diablo-Clone, der alles richtig macht: Grafik ausreichend dank Unity-Engine; Plot zwar so hahnebüchen, dass Diablo durchdacht wirkt, aber zahlt auf eine coole Weltkarte mit 4 Zeitebene ein; und ein Skill- und Levelsystem, das durchdacht und elegant ist und damit ein Gegenentwurf zu PoE, was mit seiner Komplexität versteckt, dass es schlecht ist und Diablo III, das seine spannende, gute Komplexität nachträglich durch Itemsets reinholen muss.
    * Ja, ich kann nicht über D4 reden, aber wie schon mal geschrieben: "Einfach abwarten"
    * Gestern Abend zum ersten Mal seit Jahren online gespielt - mit A. 9 Level ohne Anstrengung, aber meine Güte, ich kann nicht mehr Denken, Reden und Spielen gleichzeitig.
 * Wir sind krank. Also: S. ist krank, die Kinder sind krank, ich bin noch auf den Beinen, schlafe aber noch weniger als sonst. Das bringt uns dazu, mal das Konzept "jeder kriegt eine Stunde Pause am Tag" auszuprobieren. 
